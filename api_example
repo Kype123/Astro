@@ -1,5 +1,18 @@
-require("Astro")
-    
-function create_move_func()
-  -- write something NOTE: DONT CREATE ANY CALLBACKS. Good luck!
-end
+require("astro_api_lib")
+funcs = {
+  on_paint = {
+
+  },
+  create_move = {
+    -- hello_world = function()
+    --   print('Hello, world')
+    -- end,
+
+  },
+  on_shot = {
+
+  },
+  unload = {
+
+  }
+}
