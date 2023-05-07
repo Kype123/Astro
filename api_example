@@ -1,4 +1,4 @@
-require("astro_api_lib")
+require("Astro_library")
 funcs = {
   on_paint = {
 
