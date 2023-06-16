@@ -6,9 +6,9 @@
        ['access'] = 'beta',
     },
     ['FroxZite'] = {
-       ['access'] = 'stable',
+       ['access'] = 'beta',
     },
     ['Shapater Boi'] = {
-       ['access'] = 'stable',
+       ['access'] = 'beta',
     },
 }
