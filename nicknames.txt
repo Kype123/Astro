@@ -1,7 +1,4 @@
 {
-    ['Lucky3y3'] = {
-       ['access'] = 'beta',
-    },
     ['pullyfy'] = {
        ['access'] = 'beta',
     },
