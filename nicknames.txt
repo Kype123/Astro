@@ -11,4 +11,7 @@
     ['Shapater Boi'] = {
        ['access'] = 'beta',
     },
+    ['anonteam1337'] = {
+       ['access'] = 'beta',
+    },
 }
